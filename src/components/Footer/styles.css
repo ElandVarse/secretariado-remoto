@@ -1,0 +1,11 @@
+#Footer{
+    width: 100%;
+    background: #282c34;
+    height: 60px;
+    color: white;
+    font-size: 17pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
