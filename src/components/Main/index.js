@@ -1,9 +1,10 @@
 import React from 'react';
+import Article from '../Article';
 import './styles.css'
 
 const Main = () => (
     <main id='content'>
-        <h2>Deus faça esse footer ficar fixo</h2>
+        <Article />
     </main>
 );
 
