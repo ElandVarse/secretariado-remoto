@@ -1,11 +1,12 @@
 import React from 'react';
 
 
-import logo from '../../assets/work.svg'
+import logo from '../../../assets/work.svg'
 
-import Sidebar from './Components/Sidebar';
-import Footer from './Components/Footer' 
-import Content from './Components/Content';
+import Sidebar from '../../Sidebar';
+import Footer from './Footer' 
+import About from './About';
+import Services from './Services'
 
 const Home = () => (
     <div className="Home">
@@ -17,7 +18,8 @@ const Home = () => (
             <h1>Secretariado Remoto</h1>
         </section>
 
-        <Content />
+        <About />
+        <Services />
     
         <Footer />
     </div>

@@ -72,7 +72,7 @@
     
     font-size: 24px;
     margin-bottom: 5px;
-    padding: 10px 30px;
+    padding: 10px 50px;
 
     border-radius: 4px;
     
@@ -81,5 +81,11 @@
 
 .config li:hover{
     background-color: #0a8dca;
+}
+
+.config p{
+    margin-top: 10px;
+    color: #f9f9f9;
+    cursor: pointer;
 }
 

@@ -1,0 +1,26 @@
+
+.About{    
+    display: flex;
+}
+
+.About p{
+    font-size: 18px;
+    text-align: justify;
+    margin-top: 10px;
+    text-indent: 40px;
+}
+
+.About ul{
+    list-style: none;
+}
+
+.About li{
+    margin: 10px 
+}
+
+.About img{
+    width: 400px;   
+    height: 200px;
+    float: right;
+    margin: 20px;
+}

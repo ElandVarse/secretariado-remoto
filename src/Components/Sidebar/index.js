@@ -4,7 +4,7 @@ import './Sidebar.css'
 
 import { LogOut } from 'react-feather'
 
-import avatar from '../../../../assets/female-avatar.svg'
+import avatar from '../../assets/female-avatar.svg'
 
 const Sidebar = () => {
     return (
@@ -20,9 +20,12 @@ const Sidebar = () => {
             
             <div className="config">
                 <ul>
-                    <li>Perfil</li>
-                    <li>Configurações</li>
+                    <li>Login</li>
+                    <li>Register</li>
+                    {/* <li>Perfil</li>
+                    <li>Configurações</li> */}
                 </ul>
+                <p>Esqueceu a senha?</p>
             </div>
 
             <div className="logout">
