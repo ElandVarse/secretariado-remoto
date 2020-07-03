@@ -3,10 +3,10 @@ import React from 'react';
 
 import logo from '../../../assets/work.svg'
 
-import Sidebar from '../../Sidebar';
-import Footer from './Footer' 
-import About from './About';
-import Services from './Services'
+import Sidebar from '../../Sidebar/SideBar';
+import Footer from './Footer/Footer' 
+import About from './About/About';
+import Services from './Services/Services'
 
 const Home = () => (
     <div className="Home">
