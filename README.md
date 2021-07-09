@@ -1,6 +1,6 @@
-# Secretariado Remoto
+# Remote Secretary
 
-Site estático simulando o cadastro de serviços em um secretariado remoto
+Website built with React with the purpose of intermediating the purchase of services from a remote secretary.   
 
 <img src="https://i.imgur.com/Z5LgJZX.png">
 
